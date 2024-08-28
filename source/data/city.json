@@ -1,0 +1,2574 @@
+{
+    "data": [
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.01",
+            "nama_kabkota": "KAB. ACEH SELATAN"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.02",
+            "nama_kabkota": "KAB. ACEH TENGGARA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.03",
+            "nama_kabkota": "KAB. ACEH TIMUR"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.04",
+            "nama_kabkota": "KAB. ACEH TENGAH"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.05",
+            "nama_kabkota": "KAB. ACEH BARAT"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.06",
+            "nama_kabkota": "KAB. ACEH BESAR"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.07",
+            "nama_kabkota": "KAB. PIDIE"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.08",
+            "nama_kabkota": "KAB. ACEH UTARA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.09",
+            "nama_kabkota": "KAB. SIMEULUE"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.10",
+            "nama_kabkota": "KAB. ACEH SINGKIL"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.11",
+            "nama_kabkota": "KAB. BIREUEN"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.12",
+            "nama_kabkota": "KAB. ACEH BARAT DAYA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.13",
+            "nama_kabkota": "KAB. GAYO LUES"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.14",
+            "nama_kabkota": "KAB. ACEH JAYA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.15",
+            "nama_kabkota": "KAB. NAGAN RAYA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.16",
+            "nama_kabkota": "KAB. ACEH TAMIANG"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.17",
+            "nama_kabkota": "KAB. BENER MERIAH"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.18",
+            "nama_kabkota": "KAB. PIDIE JAYA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.71",
+            "nama_kabkota": "KOTA BANDA ACEH"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.72",
+            "nama_kabkota": "KOTA SABANG"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.73",
+            "nama_kabkota": "KOTA LHOKSEUMAWE"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.74",
+            "nama_kabkota": "KOTA LANGSA"
+        },
+        {
+            "kode_provinsi": "11",
+            "kode_kabkota": "11.75",
+            "nama_kabkota": "KOTA SUBULUSSALAM"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.01",
+            "nama_kabkota": "KAB. TAPANULI TENGAH"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.02",
+            "nama_kabkota": "KAB. TAPANULI UTARA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.03",
+            "nama_kabkota": "KAB. TAPANULI SELATAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.04",
+            "nama_kabkota": "KAB. NIAS"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.05",
+            "nama_kabkota": "KAB. LANGKAT"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.06",
+            "nama_kabkota": "KAB. KARO"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.07",
+            "nama_kabkota": "KAB. DELI SERDANG"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.08",
+            "nama_kabkota": "KAB. SIMALUNGUN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.09",
+            "nama_kabkota": "KAB. ASAHAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.10",
+            "nama_kabkota": "KAB. LABUHANBATU"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.11",
+            "nama_kabkota": "KAB. DAIRI"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.12",
+            "nama_kabkota": "KAB. TOBA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.13",
+            "nama_kabkota": "KAB. MANDAILING NATAL"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.14",
+            "nama_kabkota": "KAB. NIAS SELATAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.15",
+            "nama_kabkota": "KAB. PAKPAK BHARAT"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.16",
+            "nama_kabkota": "KAB. HUMBANG HASUNDUTAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.17",
+            "nama_kabkota": "KAB. SAMOSIR"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.18",
+            "nama_kabkota": "KAB. SERDANG BEDAGAI"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.19",
+            "nama_kabkota": "KAB. BATU BARA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.20",
+            "nama_kabkota": "KAB. PADANG LAWAS UTARA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.21",
+            "nama_kabkota": "KAB. PADANG LAWAS"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.22",
+            "nama_kabkota": "KAB. LABUHANBATU SELATAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.23",
+            "nama_kabkota": "KAB. LABUHANBATU UTARA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.24",
+            "nama_kabkota": "KAB. NIAS UTARA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.25",
+            "nama_kabkota": "KAB. NIAS BARAT"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.71",
+            "nama_kabkota": "KOTA MEDAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.72",
+            "nama_kabkota": "KOTA PEMATANGSIANTAR"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.73",
+            "nama_kabkota": "KOTA SIBOLGA"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.74",
+            "nama_kabkota": "KOTA TANJUNG BALAI"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.75",
+            "nama_kabkota": "KOTA BINJAI"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.76",
+            "nama_kabkota": "KOTA TEBING TINGGI"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.77",
+            "nama_kabkota": "KOTA PADANG SIDEMPUAN"
+        },
+        {
+            "kode_provinsi": "12",
+            "kode_kabkota": "12.78",
+            "nama_kabkota": "KOTA GUNUNGSITOLI"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.01",
+            "nama_kabkota": "KAB. PESISIR SELATAN"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.02",
+            "nama_kabkota": "KAB. SOLOK"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.03",
+            "nama_kabkota": "KAB. SIJUNJUNG"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.04",
+            "nama_kabkota": "KAB. TANAH DATAR"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.05",
+            "nama_kabkota": "KAB. PADANG PARIAMAN"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.06",
+            "nama_kabkota": "KAB. AGAM"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.07",
+            "nama_kabkota": "KAB. LIMA PULUH KOTA"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.08",
+            "nama_kabkota": "KAB. PASAMAN"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.09",
+            "nama_kabkota": "KAB. KEPULAUAN MENTAWAI"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.10",
+            "nama_kabkota": "KAB. DHARMASRAYA"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.11",
+            "nama_kabkota": "KAB. SOLOK SELATAN"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.12",
+            "nama_kabkota": "KAB. PASAMAN BARAT"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.71",
+            "nama_kabkota": "KOTA PADANG"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.72",
+            "nama_kabkota": "KOTA SOLOK"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.73",
+            "nama_kabkota": "KOTA SAWAHLUNTO"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.74",
+            "nama_kabkota": "KOTA PADANG PANJANG"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.75",
+            "nama_kabkota": "KOTA BUKITTINGGI"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.76",
+            "nama_kabkota": "KOTA PAYAKUMBUH"
+        },
+        {
+            "kode_provinsi": "13",
+            "kode_kabkota": "13.77",
+            "nama_kabkota": "KOTA PARIAMAN"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.01",
+            "nama_kabkota": "KAB. KAMPAR"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.02",
+            "nama_kabkota": "KAB. INDRAGIRI HULU"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.03",
+            "nama_kabkota": "KAB. BENGKALIS"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.04",
+            "nama_kabkota": "KAB. INDRAGIRI HILIR"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.05",
+            "nama_kabkota": "KAB.  PELALAWAN"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.06",
+            "nama_kabkota": "KAB.  ROKAN HULU"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.07",
+            "nama_kabkota": "KAB.  ROKAN HILIR"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.08",
+            "nama_kabkota": "KAB. SIAK"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.09",
+            "nama_kabkota": "KAB. KUANTAN SINGINGI"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.10",
+            "nama_kabkota": "KAB. KEPULAUAN MERANTI"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.71",
+            "nama_kabkota": "KOTA PEKANBARU"
+        },
+        {
+            "kode_provinsi": "14",
+            "kode_kabkota": "14.72",
+            "nama_kabkota": "KOTA DUMAI"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.01",
+            "nama_kabkota": "KAB.  KERINCI"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.02",
+            "nama_kabkota": "KAB.  MERANGIN"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.03",
+            "nama_kabkota": "KAB. SAROLANGUN"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.04",
+            "nama_kabkota": "KAB. BATANGHARI"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.05",
+            "nama_kabkota": "KAB.  MUARO JAMBI"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.06",
+            "nama_kabkota": "KAB. TANJUNG JABUNG BARAT"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.07",
+            "nama_kabkota": "KAB. TANJUNG JABUNG TIMUR"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.08",
+            "nama_kabkota": "KAB. BUNGO"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.09",
+            "nama_kabkota": "KAB. TEBO"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.71",
+            "nama_kabkota": "KOTA JAMBI"
+        },
+        {
+            "kode_provinsi": "15",
+            "kode_kabkota": "15.72",
+            "nama_kabkota": "KOTA SUNGAI PENUH"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.01",
+            "nama_kabkota": "KAB. OGAN KOMERING ULU"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.02",
+            "nama_kabkota": "KAB. OGAN KOMERING ILIR"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.03",
+            "nama_kabkota": "KAB. MUARA ENIM"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.04",
+            "nama_kabkota": "KAB. LAHAT"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.05",
+            "nama_kabkota": "KAB. MUSI RAWAS"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.06",
+            "nama_kabkota": "KAB. MUSI BANYUASIN"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.07",
+            "nama_kabkota": "KAB. BANYUASIN"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.08",
+            "nama_kabkota": "KAB. OGAN KOMERING ULU TIMUR"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.09",
+            "nama_kabkota": "KAB. OGAN KOMERING ULU SELATAN"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.10",
+            "nama_kabkota": "KAB. OGAN ILIR"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.11",
+            "nama_kabkota": "KAB. EMPAT LAWANG"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.12",
+            "nama_kabkota": "KAB. PENUKAL ABAB LEMATANG ILIR"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.13",
+            "nama_kabkota": "KAB. MUSI RAWAS UTARA"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.71",
+            "nama_kabkota": "KOTA PALEMBANG"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.72",
+            "nama_kabkota": "KOTA PAGAR ALAM"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.73",
+            "nama_kabkota": "KOTA LUBUK LINGGAU"
+        },
+        {
+            "kode_provinsi": "16",
+            "kode_kabkota": "16.74",
+            "nama_kabkota": "KOTA PRABUMULIH"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.01",
+            "nama_kabkota": "KAB. BENGKULU SELATAN"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.02",
+            "nama_kabkota": "KAB. REJANG LEBONG"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.03",
+            "nama_kabkota": "KAB. BENGKULU UTARA"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.04",
+            "nama_kabkota": "KAB. KAUR"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.05",
+            "nama_kabkota": "KAB. SELUMA"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.06",
+            "nama_kabkota": "KAB. MUKO MUKO"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.07",
+            "nama_kabkota": "KAB. LEBONG"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.08",
+            "nama_kabkota": "KAB. KEPAHIANG"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.09",
+            "nama_kabkota": "KAB. BENGKULU TENGAH"
+        },
+        {
+            "kode_provinsi": "17",
+            "kode_kabkota": "17.71",
+            "nama_kabkota": "KOTA BENGKULU"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.01",
+            "nama_kabkota": "KAB. LAMPUNG SELATAN"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.02",
+            "nama_kabkota": "KAB. LAMPUNG TENGAH"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.03",
+            "nama_kabkota": "KAB. LAMPUNG UTARA"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.04",
+            "nama_kabkota": "KAB. LAMPUNG BARAT"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.05",
+            "nama_kabkota": "KAB. TULANG BAWANG"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.06",
+            "nama_kabkota": "KAB. TANGGAMUS"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.07",
+            "nama_kabkota": "KAB. LAMPUNG TIMUR"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.08",
+            "nama_kabkota": "KAB. WAY KANAN"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.09",
+            "nama_kabkota": "KAB. PESAWARAN"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.10",
+            "nama_kabkota": "KAB. PRINGSEWU"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.11",
+            "nama_kabkota": "KAB. MESUJI"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.12",
+            "nama_kabkota": "KAB. TULANG BAWANG BARAT"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.13",
+            "nama_kabkota": "KAB. PESISIR BARAT"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.71",
+            "nama_kabkota": "KOTA BANDAR LAMPUNG"
+        },
+        {
+            "kode_provinsi": "18",
+            "kode_kabkota": "18.72",
+            "nama_kabkota": "KOTA METRO"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.01",
+            "nama_kabkota": "KAB. BANGKA"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.02",
+            "nama_kabkota": "KAB. BELITUNG"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.03",
+            "nama_kabkota": "KAB. BANGKA SELATAN"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.04",
+            "nama_kabkota": "KAB. BANGKA TENGAH"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.05",
+            "nama_kabkota": "KAB. BANGKA BARAT"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.06",
+            "nama_kabkota": "KAB. BELITUNG TIMUR"
+        },
+        {
+            "kode_provinsi": "19",
+            "kode_kabkota": "19.71",
+            "nama_kabkota": "KOTA PANGKAL PINANG"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.01",
+            "nama_kabkota": "KAB. BINTAN"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.02",
+            "nama_kabkota": "KAB. KARIMUN"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.03",
+            "nama_kabkota": "KAB. NATUNA"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.04",
+            "nama_kabkota": "KAB. LINGGA"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.05",
+            "nama_kabkota": "KAB. KEPULAUAN ANAMBAS"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.71",
+            "nama_kabkota": "KOTA BATAM"
+        },
+        {
+            "kode_provinsi": "21",
+            "kode_kabkota": "21.72",
+            "nama_kabkota": "KOTA TANJUNG PINANG"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.01",
+            "nama_kabkota": "KAB. ADM. KEP. SERIBU"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.71",
+            "nama_kabkota": "KOTA ADM. JAKARTA PUSAT"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.72",
+            "nama_kabkota": "KOTA ADM. JAKARTA UTARA"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.73",
+            "nama_kabkota": "KOTA ADM. JAKARTA BARAT"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.74",
+            "nama_kabkota": "KOTA ADM. JAKARTA SELATAN"
+        },
+        {
+            "kode_provinsi": "31",
+            "kode_kabkota": "31.75",
+            "nama_kabkota": "KOTA ADM. JAKARTA TIMUR"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.01",
+            "nama_kabkota": "KAB. BOGOR"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.02",
+            "nama_kabkota": "KAB. SUKABUMI"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.03",
+            "nama_kabkota": "KAB. CIANJUR"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.04",
+            "nama_kabkota": "KAB. BANDUNG"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.05",
+            "nama_kabkota": "KAB. GARUT"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.06",
+            "nama_kabkota": "KAB. TASIKMALAYA"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.07",
+            "nama_kabkota": "KAB. CIAMIS"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.08",
+            "nama_kabkota": "KAB. KUNINGAN"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.09",
+            "nama_kabkota": "KAB. CIREBON"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.10",
+            "nama_kabkota": "KAB. MAJALENGKA"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.11",
+            "nama_kabkota": "KAB. SUMEDANG"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.12",
+            "nama_kabkota": "KAB. INDRAMAYU"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.13",
+            "nama_kabkota": "KAB. SUBANG"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.14",
+            "nama_kabkota": "KAB. PURWAKARTA"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.15",
+            "nama_kabkota": "KAB. KARAWANG"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.16",
+            "nama_kabkota": "KAB. BEKASI"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.17",
+            "nama_kabkota": "KAB. BANDUNG BARAT"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.18",
+            "nama_kabkota": "KAB. PANGANDARAN"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.71",
+            "nama_kabkota": "KOTA BOGOR"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.72",
+            "nama_kabkota": "KOTA SUKABUMI"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.73",
+            "nama_kabkota": "KOTA BANDUNG"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.74",
+            "nama_kabkota": "KOTA CIREBON"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.75",
+            "nama_kabkota": "KOTA BEKASI"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.76",
+            "nama_kabkota": "KOTA DEPOK"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.77",
+            "nama_kabkota": "KOTA CIMAHI"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.78",
+            "nama_kabkota": "KOTA TASIKMALAYA"
+        },
+        {
+            "kode_provinsi": "32",
+            "kode_kabkota": "32.79",
+            "nama_kabkota": "KOTA BANJAR"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.01",
+            "nama_kabkota": "KAB. CILACAP"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.02",
+            "nama_kabkota": "KAB. BANYUMAS"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.03",
+            "nama_kabkota": "KAB. PURBALINGGA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.04",
+            "nama_kabkota": "KAB. BANJARNEGARA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.05",
+            "nama_kabkota": "KAB. KEBUMEN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.06",
+            "nama_kabkota": "KAB. PURWOREJO"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.07",
+            "nama_kabkota": "KAB. WONOSOBO"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.08",
+            "nama_kabkota": "KAB. MAGELANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.09",
+            "nama_kabkota": "KAB. BOYOLALI"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.10",
+            "nama_kabkota": "KAB. KLATEN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.11",
+            "nama_kabkota": "KAB. SUKOHARJO"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.12",
+            "nama_kabkota": "KAB. WONOGIRI"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.13",
+            "nama_kabkota": "KAB. KARANGANYAR"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.14",
+            "nama_kabkota": "KAB. SRAGEN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.15",
+            "nama_kabkota": "KAB. GROBOGAN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.16",
+            "nama_kabkota": "KAB. BLORA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.17",
+            "nama_kabkota": "KAB. REMBANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.18",
+            "nama_kabkota": "KAB. PATI"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.19",
+            "nama_kabkota": "KAB. KUDUS"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.20",
+            "nama_kabkota": "KAB. JEPARA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.21",
+            "nama_kabkota": "KAB. DEMAK"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.22",
+            "nama_kabkota": "KAB. SEMARANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.23",
+            "nama_kabkota": "KAB. TEMANGGUNG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.24",
+            "nama_kabkota": "KAB. KENDAL"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.25",
+            "nama_kabkota": "KAB. BATANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.26",
+            "nama_kabkota": "KAB. PEKALONGAN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.27",
+            "nama_kabkota": "KAB. PEMALANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.28",
+            "nama_kabkota": "KAB. TEGAL"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.29",
+            "nama_kabkota": "KAB. BREBES"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.71",
+            "nama_kabkota": "KOTA MAGELANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.72",
+            "nama_kabkota": "KOTA SURAKARTA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.73",
+            "nama_kabkota": "KOTA SALATIGA"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.74",
+            "nama_kabkota": "KOTA SEMARANG"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.75",
+            "nama_kabkota": "KOTA PEKALONGAN"
+        },
+        {
+            "kode_provinsi": "33",
+            "kode_kabkota": "33.76",
+            "nama_kabkota": "KOTA TEGAL"
+        },
+        {
+            "kode_provinsi": "34",
+            "kode_kabkota": "34.01",
+            "nama_kabkota": "KAB. KULON PROGO"
+        },
+        {
+            "kode_provinsi": "34",
+            "kode_kabkota": "34.02",
+            "nama_kabkota": "KAB. BANTUL"
+        },
+        {
+            "kode_provinsi": "34",
+            "kode_kabkota": "34.03",
+            "nama_kabkota": "KAB. GUNUNGKIDUL"
+        },
+        {
+            "kode_provinsi": "34",
+            "kode_kabkota": "34.04",
+            "nama_kabkota": "KAB. SLEMAN"
+        },
+        {
+            "kode_provinsi": "34",
+            "kode_kabkota": "34.71",
+            "nama_kabkota": "KOTA YOGYAKARTA"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.01",
+            "nama_kabkota": "KAB. PACITAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.02",
+            "nama_kabkota": "KAB. PONOROGO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.03",
+            "nama_kabkota": "KAB. TRENGGALEK"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.04",
+            "nama_kabkota": "KAB. TULUNGAGUNG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.05",
+            "nama_kabkota": "KAB. BLITAR"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.06",
+            "nama_kabkota": "KAB. KEDIRI"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.07",
+            "nama_kabkota": "KAB. MALANG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.08",
+            "nama_kabkota": "KAB. LUMAJANG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.09",
+            "nama_kabkota": "KAB. JEMBER"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.10",
+            "nama_kabkota": "KAB. BANYUWANGI"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.11",
+            "nama_kabkota": "KAB. BONDOWOSO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.12",
+            "nama_kabkota": "KAB. SITUBONDO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.13",
+            "nama_kabkota": "KAB. PROBOLINGGO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.14",
+            "nama_kabkota": "KAB. PASURUAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.15",
+            "nama_kabkota": "KAB. SIDOARJO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.16",
+            "nama_kabkota": "KAB. MOJOKERTO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.17",
+            "nama_kabkota": "KAB. JOMBANG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.18",
+            "nama_kabkota": "KAB. NGANJUK"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.19",
+            "nama_kabkota": "KAB. MADIUN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.20",
+            "nama_kabkota": "KAB. MAGETAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.21",
+            "nama_kabkota": "KAB. NGAWI"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.22",
+            "nama_kabkota": "KAB. BOJONEGORO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.23",
+            "nama_kabkota": "KAB. TUBAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.24",
+            "nama_kabkota": "KAB. LAMONGAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.25",
+            "nama_kabkota": "KAB. GRESIK"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.26",
+            "nama_kabkota": "KAB. BANGKALAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.27",
+            "nama_kabkota": "KAB. SAMPANG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.28",
+            "nama_kabkota": "KAB. PAMEKASAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.29",
+            "nama_kabkota": "KAB. SUMENEP"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.71",
+            "nama_kabkota": "KOTA KEDIRI"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.72",
+            "nama_kabkota": "KOTA BLITAR"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.73",
+            "nama_kabkota": "KOTA MALANG"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.74",
+            "nama_kabkota": "KOTA PROBOLINGGO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.75",
+            "nama_kabkota": "KOTA PASURUAN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.76",
+            "nama_kabkota": "KOTA MOJOKERTO"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.77",
+            "nama_kabkota": "KOTA MADIUN"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.78",
+            "nama_kabkota": "KOTA SURABAYA"
+        },
+        {
+            "kode_provinsi": "35",
+            "kode_kabkota": "35.79",
+            "nama_kabkota": "KOTA BATU"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.01",
+            "nama_kabkota": "KAB. PANDEGLANG"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.02",
+            "nama_kabkota": "KAB. LEBAK"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.03",
+            "nama_kabkota": "KAB. TANGERANG"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.04",
+            "nama_kabkota": "KAB. SERANG"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.71",
+            "nama_kabkota": "KOTA TANGERANG"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.72",
+            "nama_kabkota": "KOTA CILEGON"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.73",
+            "nama_kabkota": "KOTA SERANG"
+        },
+        {
+            "kode_provinsi": "36",
+            "kode_kabkota": "36.74",
+            "nama_kabkota": "KOTA TANGERANG SELATAN"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.01",
+            "nama_kabkota": "KAB. JEMBRANA"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.02",
+            "nama_kabkota": "KAB. TABANAN"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.03",
+            "nama_kabkota": "KAB. BADUNG"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.04",
+            "nama_kabkota": "KAB. GIANYAR"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.05",
+            "nama_kabkota": "KAB. KLUNGKUNG"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.06",
+            "nama_kabkota": "KAB. BANGLI"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.07",
+            "nama_kabkota": "KAB. KARANGASEM"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.08",
+            "nama_kabkota": "KAB. BULELENG"
+        },
+        {
+            "kode_provinsi": "51",
+            "kode_kabkota": "51.71",
+            "nama_kabkota": "KOTA DENPASAR"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.01",
+            "nama_kabkota": "KAB. LOMBOK BARAT"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.02",
+            "nama_kabkota": "KAB. LOMBOK TENGAH"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.03",
+            "nama_kabkota": "KAB. LOMBOK TIMUR"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.04",
+            "nama_kabkota": "KAB. SUMBAWA"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.05",
+            "nama_kabkota": "KAB. DOMPU"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.06",
+            "nama_kabkota": "KAB. BIMA"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.07",
+            "nama_kabkota": "KAB. SUMBAWA BARAT"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.08",
+            "nama_kabkota": "KAB. LOMBOK UTARA"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.71",
+            "nama_kabkota": "KOTA MATARAM"
+        },
+        {
+            "kode_provinsi": "52",
+            "kode_kabkota": "52.72",
+            "nama_kabkota": "KOTA BIMA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.01",
+            "nama_kabkota": "KAB. KUPANG"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.02",
+            "nama_kabkota": "KAB TIMOR TENGAH SELATAN"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.03",
+            "nama_kabkota": "KAB. TIMOR TENGAH UTARA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.04",
+            "nama_kabkota": "KAB. BELU"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.05",
+            "nama_kabkota": "KAB. ALOR"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.06",
+            "nama_kabkota": "KAB. FLORES TIMUR"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.07",
+            "nama_kabkota": "KAB. SIKKA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.08",
+            "nama_kabkota": "KAB. ENDE"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.09",
+            "nama_kabkota": "KAB. NGADA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.10",
+            "nama_kabkota": "KAB. MANGGARAI"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.11",
+            "nama_kabkota": "KAB. SUMBA TIMUR"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.12",
+            "nama_kabkota": "KAB. SUMBA BARAT"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.13",
+            "nama_kabkota": "KAB. LEMBATA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.14",
+            "nama_kabkota": "KAB. ROTE NDAO"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.15",
+            "nama_kabkota": "KAB. MANGGARAI BARAT"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.16",
+            "nama_kabkota": "KAB. NAGEKEO"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.17",
+            "nama_kabkota": "KAB. SUMBA TENGAH"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.18",
+            "nama_kabkota": "KAB. SUMBA BARAT DAYA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.19",
+            "nama_kabkota": "KAB. MANGGARAI TIMUR"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.20",
+            "nama_kabkota": "KAB. SABU RAIJUA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.21",
+            "nama_kabkota": "KAB. MALAKA"
+        },
+        {
+            "kode_provinsi": "53",
+            "kode_kabkota": "53.71",
+            "nama_kabkota": "KOTA KUPANG"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.01",
+            "nama_kabkota": "KAB. SAMBAS"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.02",
+            "nama_kabkota": "KAB. MEMPAWAH"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.03",
+            "nama_kabkota": "KAB. SANGGAU"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.04",
+            "nama_kabkota": "KAB. KETAPANG"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.05",
+            "nama_kabkota": "KAB. SINTANG"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.06",
+            "nama_kabkota": "KAB. KAPUAS HULU"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.07",
+            "nama_kabkota": "KAB. BENGKAYANG"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.08",
+            "nama_kabkota": "KAB. LANDAK"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.09",
+            "nama_kabkota": "KAB. SEKADAU"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.10",
+            "nama_kabkota": "KAB. MELAWI"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.11",
+            "nama_kabkota": "KAB. KAYONG UTARA"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.12",
+            "nama_kabkota": "KAB. KUBU RAYA"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.71",
+            "nama_kabkota": "KOTA PONTIANAK"
+        },
+        {
+            "kode_provinsi": "61",
+            "kode_kabkota": "61.72",
+            "nama_kabkota": "KOTA SINGKAWANG"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.01",
+            "nama_kabkota": "KAB. KOTAWARINGIN BARAT"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.02",
+            "nama_kabkota": "KAB. KOTAWARINGIN TIMUR"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.03",
+            "nama_kabkota": "KAB. KAPUAS"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.04",
+            "nama_kabkota": "KAB. BARITO SELATAN"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.05",
+            "nama_kabkota": "KAB. BARITO UTARA"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.06",
+            "nama_kabkota": "KAB. KATINGAN"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.07",
+            "nama_kabkota": "KAB. SERUYAN"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.08",
+            "nama_kabkota": "KAB. SUKAMARA"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.09",
+            "nama_kabkota": "KAB. LAMANDAU"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.10",
+            "nama_kabkota": "KAB. GUNUNG MAS"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.11",
+            "nama_kabkota": "KAB. PULANG PISAU"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.12",
+            "nama_kabkota": "KAB. MURUNG RAYA"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.13",
+            "nama_kabkota": "KAB. BARITO TIMUR"
+        },
+        {
+            "kode_provinsi": "62",
+            "kode_kabkota": "62.71",
+            "nama_kabkota": "KOTA PALANGKARAYA"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.01",
+            "nama_kabkota": "KAB. TANAH LAUT"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.02",
+            "nama_kabkota": "KAB. KOTABARU"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.03",
+            "nama_kabkota": "KAB. BANJAR"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.04",
+            "nama_kabkota": "KAB. BARITO KUALA"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.05",
+            "nama_kabkota": "KAB. TAPIN"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.06",
+            "nama_kabkota": "KAB. HULU SUNGAI SELATAN"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.07",
+            "nama_kabkota": "KAB. HULU SUNGAI TENGAH"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.08",
+            "nama_kabkota": "KAB. HULU SUNGAI UTARA"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.09",
+            "nama_kabkota": "KAB. TABALONG"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.10",
+            "nama_kabkota": "KAB. TANAH BUMBU"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.11",
+            "nama_kabkota": "KAB. BALANGAN"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.71",
+            "nama_kabkota": "KOTA BANJARMASIN"
+        },
+        {
+            "kode_provinsi": "63",
+            "kode_kabkota": "63.72",
+            "nama_kabkota": "KOTA BANJARBARU"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.01",
+            "nama_kabkota": "KAB. PASER"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.02",
+            "nama_kabkota": "KAB. KUTAI KARTANEGARA"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.03",
+            "nama_kabkota": "KAB. BERAU"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.07",
+            "nama_kabkota": "KAB. KUTAI BARAT"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.08",
+            "nama_kabkota": "KAB. KUTAI TIMUR"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.09",
+            "nama_kabkota": "KAB. PENAJAM PASER UTARA"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.11",
+            "nama_kabkota": "KAB. MAHAKAM ULU"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.71",
+            "nama_kabkota": "KOTA BALIKPAPAN"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.72",
+            "nama_kabkota": "KOTA SAMARINDA"
+        },
+        {
+            "kode_provinsi": "64",
+            "kode_kabkota": "64.74",
+            "nama_kabkota": "KOTA BONTANG"
+        },
+        {
+            "kode_provinsi": "65",
+            "kode_kabkota": "65.01",
+            "nama_kabkota": "KAB. BULUNGAN"
+        },
+        {
+            "kode_provinsi": "65",
+            "kode_kabkota": "65.02",
+            "nama_kabkota": "KAB. MALINAU"
+        },
+        {
+            "kode_provinsi": "65",
+            "kode_kabkota": "65.03",
+            "nama_kabkota": "KAB. NUNUKAN"
+        },
+        {
+            "kode_provinsi": "65",
+            "kode_kabkota": "65.04",
+            "nama_kabkota": "KAB. TANA TIDUNG"
+        },
+        {
+            "kode_provinsi": "65",
+            "kode_kabkota": "65.71",
+            "nama_kabkota": "KOTA TARAKAN"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.01",
+            "nama_kabkota": "KAB. BOLAANG MONGONDOW"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.02",
+            "nama_kabkota": "KAB. MINAHASA"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.03",
+            "nama_kabkota": "KAB. KEPULAUAN SANGIHE"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.04",
+            "nama_kabkota": "KAB. KEPULAUAN TALAUD"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.05",
+            "nama_kabkota": "KAB. MINAHASA SELATAN"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.06",
+            "nama_kabkota": "KAB. MINAHASA UTARA"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.07",
+            "nama_kabkota": "KAB. MINAHASA TENGGARA"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.08",
+            "nama_kabkota": "KAB. BOLAANG MONGONDOW UTARA"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.09",
+            "nama_kabkota": "KAB. KEP. SIAU TAGULANDANG BIARO"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.10",
+            "nama_kabkota": "KAB. BOLAANG MONGONDOW TIMUR"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.11",
+            "nama_kabkota": "KAB. BOLAANG MONGONDOW SELATAN"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.71",
+            "nama_kabkota": "KOTA MANADO"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.72",
+            "nama_kabkota": "KOTA BITUNG"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.73",
+            "nama_kabkota": "KOTA TOMOHON"
+        },
+        {
+            "kode_provinsi": "71",
+            "kode_kabkota": "71.74",
+            "nama_kabkota": "KOTA KOTAMOBAGU"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.01",
+            "nama_kabkota": "KAB. BANGGAI"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.02",
+            "nama_kabkota": "KAB. POSO"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.03",
+            "nama_kabkota": "KAB. DONGGALA"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.04",
+            "nama_kabkota": "KAB. TOLI TOLI"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.05",
+            "nama_kabkota": "KAB. BUOL"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.06",
+            "nama_kabkota": "KAB. MOROWALI"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.07",
+            "nama_kabkota": "KAB. BANGGAI KEPULAUAN"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.08",
+            "nama_kabkota": "KAB. PARIGI MOUTONG"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.09",
+            "nama_kabkota": "KAB. TOJO UNA UNA"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.10",
+            "nama_kabkota": "KAB. SIGI"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.11",
+            "nama_kabkota": "KAB. BANGGAI LAUT"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.12",
+            "nama_kabkota": "KAB. MOROWALI UTARA"
+        },
+        {
+            "kode_provinsi": "72",
+            "kode_kabkota": "72.71",
+            "nama_kabkota": "KOTA PALU"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.01",
+            "nama_kabkota": "KAB. KEPULAUAN SELAYAR"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.02",
+            "nama_kabkota": "KAB. BULUKUMBA"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.03",
+            "nama_kabkota": "KAB. BANTAENG"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.04",
+            "nama_kabkota": "KAB. JENEPONTO"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.05",
+            "nama_kabkota": "KAB. TAKALAR"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.06",
+            "nama_kabkota": "KAB. GOWA"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.07",
+            "nama_kabkota": "KAB. SINJAI"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.08",
+            "nama_kabkota": "KAB. BONE"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.09",
+            "nama_kabkota": "KAB. MAROS"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.10",
+            "nama_kabkota": "KAB. PANGKAJENE DAN KEPULAUAN"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.11",
+            "nama_kabkota": "KAB. BARRU"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.12",
+            "nama_kabkota": "KAB. SOPPENG"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.13",
+            "nama_kabkota": "KAB. WAJO"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.14",
+            "nama_kabkota": "KAB. SIDENRENG RAPPANG"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.15",
+            "nama_kabkota": "KAB. PINRANG"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.16",
+            "nama_kabkota": "KAB. ENREKANG"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.17",
+            "nama_kabkota": "KAB. LUWU"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.18",
+            "nama_kabkota": "KAB. TANA TORAJA"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.22",
+            "nama_kabkota": "KAB. LUWU UTARA"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.24",
+            "nama_kabkota": "KAB. LUWU TIMUR"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.26",
+            "nama_kabkota": "KAB. TORAJA UTARA"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.71",
+            "nama_kabkota": "KOTA MAKASSAR"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.72",
+            "nama_kabkota": "KOTA PAREPARE"
+        },
+        {
+            "kode_provinsi": "73",
+            "kode_kabkota": "73.73",
+            "nama_kabkota": "KOTA PALOPO"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.01",
+            "nama_kabkota": "KAB. KOLAKA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.02",
+            "nama_kabkota": "KAB. KONAWE"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.03",
+            "nama_kabkota": "KAB. MUNA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.04",
+            "nama_kabkota": "KAB. BUTON"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.05",
+            "nama_kabkota": "KAB. KONAWE SELATAN"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.06",
+            "nama_kabkota": "KAB. BOMBANA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.07",
+            "nama_kabkota": "KAB. WAKATOBI"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.08",
+            "nama_kabkota": "KAB. KOLAKA UTARA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.09",
+            "nama_kabkota": "KAB. KONAWE UTARA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.10",
+            "nama_kabkota": "KAB. BUTON UTARA"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.11",
+            "nama_kabkota": "KAB. KOLAKA TIMUR"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.12",
+            "nama_kabkota": "KAB. KONAWE KEPULAUAN"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.13",
+            "nama_kabkota": "KAB. MUNA BARAT"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.14",
+            "nama_kabkota": "KAB. BUTON TENGAH"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.15",
+            "nama_kabkota": "KAB. BUTON SELATAN"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.71",
+            "nama_kabkota": "KOTA KENDARI"
+        },
+        {
+            "kode_provinsi": "74",
+            "kode_kabkota": "74.72",
+            "nama_kabkota": "KOTA BAU BAU"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.01",
+            "nama_kabkota": "KAB. GORONTALO"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.02",
+            "nama_kabkota": "KAB. BOALEMO"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.03",
+            "nama_kabkota": "KAB. BONE BOLANGO"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.04",
+            "nama_kabkota": "KAB. POHUWATO"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.05",
+            "nama_kabkota": "KAB. GORONTALO UTARA"
+        },
+        {
+            "kode_provinsi": "75",
+            "kode_kabkota": "75.71",
+            "nama_kabkota": "KOTA GORONTALO"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.01",
+            "nama_kabkota": "KAB. PASANGKAYU"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.02",
+            "nama_kabkota": "KAB. MAMUJU"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.03",
+            "nama_kabkota": "KAB. MAMASA"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.04",
+            "nama_kabkota": "KAB. POLEWALI MANDAR"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.05",
+            "nama_kabkota": "KAB. MAJENE"
+        },
+        {
+            "kode_provinsi": "76",
+            "kode_kabkota": "76.06",
+            "nama_kabkota": "KAB. MAMUJU TENGAH"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.01",
+            "nama_kabkota": "KAB. MALUKU TENGAH"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.02",
+            "nama_kabkota": "KAB. MALUKU TENGGARA"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.03",
+            "nama_kabkota": "KAB. KEPULAUAN TANIMBAR"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.04",
+            "nama_kabkota": "KAB. BURU"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.05",
+            "nama_kabkota": "KAB. SERAM BAGIAN TIMUR"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.06",
+            "nama_kabkota": "KAB. SERAM BAGIAN BARAT"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.07",
+            "nama_kabkota": "KAB. KEPULAUAN ARU"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.08",
+            "nama_kabkota": "KAB. MALUKU BARAT DAYA"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.09",
+            "nama_kabkota": "KAB. BURU SELATAN"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.71",
+            "nama_kabkota": "KOTA AMBON"
+        },
+        {
+            "kode_provinsi": "81",
+            "kode_kabkota": "81.72",
+            "nama_kabkota": "KOTA TUAL"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.01",
+            "nama_kabkota": "KAB. HALMAHERA BARAT"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.02",
+            "nama_kabkota": "KAB. HALMAHERA TENGAH"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.03",
+            "nama_kabkota": "KAB. HALMAHERA UTARA"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.04",
+            "nama_kabkota": "KAB. HALMAHERA SELATAN"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.05",
+            "nama_kabkota": "KAB. KEPULAUAN SULA"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.06",
+            "nama_kabkota": "KAB. HALMAHERA TIMUR"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.07",
+            "nama_kabkota": "KAB. PULAU MOROTAI"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.08",
+            "nama_kabkota": "KAB. PULAU TALIABU"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.71",
+            "nama_kabkota": "KOTA TERNATE"
+        },
+        {
+            "kode_provinsi": "82",
+            "kode_kabkota": "82.72",
+            "nama_kabkota": "KOTA TIDORE KEPULAUAN"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.03",
+            "nama_kabkota": "KAB. JAYAPURA"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.05",
+            "nama_kabkota": "KAB. KEPULAUAN YAPEN"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.06",
+            "nama_kabkota": "KAB. BIAK NUMFOR"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.10",
+            "nama_kabkota": "KAB. SARMI"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.11",
+            "nama_kabkota": "KAB. KEEROM"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.15",
+            "nama_kabkota": "KAB. WAROPEN"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.19",
+            "nama_kabkota": "KAB. SUPIORI"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.20",
+            "nama_kabkota": "KAB. MAMBERAMO RAYA"
+        },
+        {
+            "kode_provinsi": "91",
+            "kode_kabkota": "91.71",
+            "nama_kabkota": "KOTA JAYAPURA"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.02",
+            "nama_kabkota": "KAB. MANOKWARI"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.03",
+            "nama_kabkota": "KAB. FAK FAK"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.06",
+            "nama_kabkota": "KAB. TELUK BINTUNI"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.07",
+            "nama_kabkota": "KAB. TELUK WONDAMA"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.08",
+            "nama_kabkota": "KAB. KAIMANA"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.11",
+            "nama_kabkota": "KAB. MANOKWARI SELATAN"
+        },
+        {
+            "kode_provinsi": "92",
+            "kode_kabkota": "92.12",
+            "nama_kabkota": "KAB. PEGUNUNGAN ARFAK"
+        },
+        {
+            "kode_provinsi": "93",
+            "kode_kabkota": "93.01",
+            "nama_kabkota": "KAB. MERAUKE"
+        },
+        {
+            "kode_provinsi": "93",
+            "kode_kabkota": "93.02",
+            "nama_kabkota": "KAB. BOVEN DIGOEL"
+        },
+        {
+            "kode_provinsi": "93",
+            "kode_kabkota": "93.03",
+            "nama_kabkota": "KAB. MAPPI"
+        },
+        {
+            "kode_provinsi": "93",
+            "kode_kabkota": "93.04",
+            "nama_kabkota": "KAB. ASMAT"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.01",
+            "nama_kabkota": "KAB. NABIRE"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.02",
+            "nama_kabkota": "KAB. PUNCAK JAYA"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.03",
+            "nama_kabkota": "KAB. PANIAI"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.04",
+            "nama_kabkota": "KAB. MIMIKA"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.05",
+            "nama_kabkota": "KAB. PUNCAK"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.06",
+            "nama_kabkota": "KAB. DOGIYAI"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.07",
+            "nama_kabkota": "KAB. INTAN JAYA"
+        },
+        {
+            "kode_provinsi": "94",
+            "kode_kabkota": "94.08",
+            "nama_kabkota": "KAB. DEIYAI"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.01",
+            "nama_kabkota": "KAB. JAYAWIJAYA"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.02",
+            "nama_kabkota": "KAB PEGUNUNGAN BINTANG"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.03",
+            "nama_kabkota": "KAB. YAHUKIMO"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.04",
+            "nama_kabkota": "KAB. TOLIKARA"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.05",
+            "nama_kabkota": "KAB. MAMBERAMO TENGAH"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.06",
+            "nama_kabkota": "KAB. YALIMO"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.07",
+            "nama_kabkota": "KAB. LANNY JAYA"
+        },
+        {
+            "kode_provinsi": "95",
+            "kode_kabkota": "95.08",
+            "nama_kabkota": "KAB. NDUGA"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.01",
+            "nama_kabkota": "KAB. SORONG"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.02",
+            "nama_kabkota": "KAB. SORONG SELATAN"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.03",
+            "nama_kabkota": "KAB. RAJA AMPAT"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.04",
+            "nama_kabkota": "KAB. TAMBRAUW"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.05",
+            "nama_kabkota": "KAB. MAYBRAT"
+        },
+        {
+            "kode_provinsi": "96",
+            "kode_kabkota": "96.71",
+            "nama_kabkota": "KOTA SORONG"
+        }
+    ]
+}
