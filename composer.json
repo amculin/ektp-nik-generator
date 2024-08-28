@@ -1,0 +1,23 @@
+{
+    "name": "amculin/ektp-generator",
+    "license": "MIT",
+    "description": "Random Indonesia ID (NIK) generator using PHP",
+    "keywords": [
+        "php", "ektp", "ktp", "nik", "generator", "identity", "indonesia"
+    ],
+    "authors": [
+        {
+            "name": "Fahmi Auliya Tsani",
+            "email": "amixcustomlinux@gmail.com",
+            "homepage": "https://github.com/amculin"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "amculin\\ektp\\": "source/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
