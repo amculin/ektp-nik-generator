@@ -1,5 +1,9 @@
 ## e-KTP NIK Generator
 Generate a valid NIK randomly.
+## Instalation
+```bash
+composer require amculin/ektp-generator
+```
 ## How to use
 ```php
 use amculin\ektp\generator\KTP;
