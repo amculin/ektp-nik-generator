@@ -1,15 +1,10 @@
 <?php
 namespace amculin\ektp\generator;
 
-use amculin\ektp\generator\enum\Provinces;
+use amculin\ektp\generator\base\Province as baseProvince;
 
-class Province
+class Province extends baseProvince
 {
-    public int $id;
-    public string $name;
-    public $dataset;
-    public $provinces;
-
     public function __construct()
     {
         $this->retrieveDataset();
@@ -22,7 +17,7 @@ class Province
         $this->setName(ucwords(strtolower(str_replace('_', ' ', $randomProvince['name']))));
     }
 
-    public function createProvinceList()
+    public function createProvinceList(): void
     {
         $provinceList = [];
 
@@ -36,50 +31,11 @@ class Province
         $this->setProvinces($provinceList);
     }
 
-    public function retrieveDataset()
+    public function retrieveDataset(): void
     {
         $rawData = file_get_contents(__DIR__ . '\data\province.json');
         $data = json_decode($rawData, true)['data'];
+
         $this->setDataset($data);
-    }
-
-    public function getDataset()
-    {
-        return $this->dataset;
-    }
-
-    public function setDataset($data)
-    {
-        $this->dataset = $data;
-    }
-
-    public function getId()
-    {
-        return $this->id;
-    }
-
-    public function setId(int $id)
-    {
-        $this->id = $id;
-    }
-
-    public function getName()
-    {
-        return $this->name;
-    }
-
-    public function setName(string $name)
-    {
-        $this->name = $name;
-    }
-
-    public function getProvinces()
-    {
-        return $this->provinces;
-    }
-
-    public function setProvinces($provinces)
-    {
-        $this->provinces = $provinces;
     }
 }
