@@ -1,14 +1,10 @@
 <?php
 namespace amculin\ektp\generator;
 
-class District
-{
-    public string $id;
-    public string $name;
-    public City $city;
-    public $dataset;
-    public $districts;
+use amculin\ektp\generator\base\District as baseDistrict;
 
+class District extends baseDistrict
+{
     public function __construct(City $city)
     {
         $this->setCity($city);
@@ -22,7 +18,7 @@ class District
         $this->setName(ucwords(strtolower($randomDistrict['name'])));
     }
 
-    public function createDistrictList(City $city)
+    public function createDistrictList(City $city): void
     {
         $districtList = [];
 
@@ -39,71 +35,11 @@ class District
         $this->setDistricts($districtList);
     }
 
-    public function retrieveDataset()
+    public function retrieveDataset(): void
     {
         $rawData = file_get_contents(__DIR__ . '\data\district.json');
         $data = json_decode($rawData, true)['data'];
 
         $this->setDataset($data);
-    }
-
-    public function getDistricts()
-    {
-        return $this->districts;
-    }
-
-    public function setDistricts($districts)
-    {
-        $this->districts = $districts;
-    }
-
-    public function getDataset()
-    {
-        return $this->dataset;
-    }
-
-    public function setDataset($data)
-    {
-        $this->dataset = $data;
-    }
-
-    public function getFullId()
-    {
-        return $this->fullId;
-    }
-
-    public function setFullId(string $fullID)
-    {
-        $this->fullId = $fullID;
-    }
-
-    public function getId()
-    {
-        return $this->id;
-    }
-
-    public function setId(string $id)
-    {
-        $this->id = $id;
-    }
-
-    public function getName()
-    {
-        return $this->name;
-    }
-
-    public function setName(string $name)
-    {
-        $this->name = $name;
-    }
-
-    public function getCity()
-    {
-        return $this->city;
-    }
-
-    public function setCity(City $city)
-    {
-        $this->city = $city;
     }
 }
