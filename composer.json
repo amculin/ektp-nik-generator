@@ -16,5 +16,8 @@
         "psr-4": {
             "amculin\\ektp\\generator\\": "source/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
     }
 }
