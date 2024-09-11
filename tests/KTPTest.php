@@ -84,8 +84,6 @@ final class KTPTest extends TestCase
 
     public function testCanGenerateBirthDate()
     {
-        $this->ktp = new KTP();
-
         // Check whether generated birth date is an object.
         $this->assertIsObject($this->ktp->getBirthDate());
 
@@ -95,8 +93,6 @@ final class KTPTest extends TestCase
 
     public function testCanGenerateProvince()
     {
-        $this->ktp = new KTP();
-
         // Check whether generated province is an object
         $this->assertIsObject($this->ktp->getProvince());
 
@@ -106,8 +102,6 @@ final class KTPTest extends TestCase
 
     public function testCanGenerateCity()
     {
-        $this->ktp = new KTP();
-
         // Check whether generated city is an object
         $this->assertIsObject($this->ktp->getCity());
 
@@ -117,8 +111,6 @@ final class KTPTest extends TestCase
 
     public function testCanGenerateDistrict()
     {
-        $this->ktp = new KTP();
-
         // Check whether generated district is an object
         $this->assertIsObject($this->ktp->getDistrict());
 
@@ -128,11 +120,12 @@ final class KTPTest extends TestCase
 
     public function testCanGenerateSequence()
     {
-        $this->ktp = new KTP();
-
         // Check whether generated sequence came in string format.
         $this->assertIsString($this->ktp->getSequence());
+    }
 
+    public function testSequenceIsValid()
+    {
         // Check whether generated sequence has 4 characters.
         $length = 4;
 
